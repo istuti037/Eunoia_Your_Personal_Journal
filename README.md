@@ -1,4 +1,4 @@
-# Diary-App
+# Eunoia: Your Personal Journal
 A personal Java desktop diary application with an AI assistant, background music, and voice note recording.
 
 ## Features:
